@@ -8,11 +8,11 @@ I've been learning for years, because of the intrest in computers I've turned in
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Blog](http://bhaskarvilles.dev)
-* ✉️  You can contact me at [dev@bhaskar.email](mailto:dev@bhaskar.email)
+* ✉️  You can contact me at [bhaskarvilles@duck.com](mailto:bhaskarvilles@duck.com)
 * 🚀  I'm currently working on [Hyperledger](http://hyperledger.org)
-* 🧠  I'm learning Linux Kernals Development for KDE
+* 🧠  I'm learning Linux and Blockchain Technologies, AI and Cryptography.
 * 🤝  I'm open to collaborating on Any Blockchain and Web 3 Technologies
-* ⚡  Ambitious and Capitalist
+* ⚡  Ambitious, Optimistic and Capitalist
 
 ### Skills
 
@@ -81,6 +81,8 @@ I've been learning for years, because of the intrest in computers I've turned in
 <p align="left"> <a href="https://www.codepen.io/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://bhaskar.today" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/bhaskarvilles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+<iframe src="https://github.com/sponsors/bhaskarvilles/card" title="Sponsor bhaskarvilles" height="225" width="600" style="border: 0;"></iframe>
 
 <b>My GitHub Stats</b>
 
