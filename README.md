@@ -82,7 +82,6 @@ I've been learning for years, because of the intrest in computers I've turned in
 
 ### Badges
 
-<iframe src="https://github.com/sponsors/bhaskarvilles/card" title="Sponsor bhaskarvilles" height="225" width="600" style="border: 0;"></iframe>
 
 <b>My GitHub Stats</b>
 
