@@ -4,13 +4,13 @@ Hi 👋 My name is Bhaskar
 Hacker | Developer | Trader | Entrepreneur
 ------------------------------------------
 
-I've been learning for years, because of the intrest in computers I've turned into a free lance developer.
+I've been learning for years, because of the intrest in computers I've turned into a Multi Domain Technopreneur.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Blog](http://bhaskarvilles.dev)
+* 🖥️  See my blog at [Blog](http://bhaskarvilles.dev)
 * ✉️  You can contact me at [bhaskarvilles@duck.com](mailto:bhaskarvilles@duck.com)
-* 🚀  I'm currently working on [Hyperledger](http://hyperledger.org)
-* 🧠  I'm learning Linux and Blockchain Technologies, AI and Cryptography.
+* 🚀  I'm currently working on Blockchains and [Hyperledger](http://hyperledger.org)
+* 🧠  I'm learning Blockchain Technologies, AI and Cryptography.
 * 🤝  I'm open to collaborating on Any Blockchain and Web 3 Technologies
 * ⚡  Ambitious, Optimistic and Capitalist
 
